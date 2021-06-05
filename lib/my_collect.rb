@@ -8,6 +8,6 @@ collection
 end
 
 
-my_collect(collection) do |lang|
+my_collect(array) do |lang|
   lang.upcase
 end
